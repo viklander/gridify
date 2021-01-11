@@ -1,0 +1,9 @@
+{
+  "name": "gridify",
+  "version": "0.0.1",
+  "description": "Tiny framework for building responsive sites.",
+  "main": "index.js",
+  "repository": "https://github.com/viklander/gridify",
+  "author": "Erik Viklander",
+  "license": "GNU GPLv3"
+}
